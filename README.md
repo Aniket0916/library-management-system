@@ -27,6 +27,19 @@ LibraryManagementSystem/
 │ └── style.css # Custom styles
 
 
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Add User Form
+![Add Users](screenshots/adding_users.png)
+
+### Return Book
+![Before returning](screenshots/before_returning.png)
+
+### Book Returned
+![Book Returned](screenshots/book_returned.png)
 
 ## 🛠️ Tech Stack
 - Python (Flask, sqlite3, pandas)
